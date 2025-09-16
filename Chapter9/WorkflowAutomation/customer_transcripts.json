@@ -1,0 +1,24 @@
+{
+  "conversations": [
+    {
+      "user_id": 1,
+      "date": "2024-06-01",
+      "transcripts": "Hi, I have a question about my order. Sure, can you provide your order ID? It's 1001. Your order has been shipped and is on its way. That's great! By the way, do you follow basketball? Yes, I'm a big fan of the New York Knicks. How about you? I love the Golden State Warriors. Curry is my favorite player. He's amazing! Do you play basketball yourself? Sometimes with friends. Also, I can't wait for my order to arrive. I ordered some new sneakers for the court. I hope you enjoy them! What's your favorite food after a game? Pizza, definitely. Especially pepperoni."
+    },
+    {
+      "user_id": 2,
+      "date": "2024-06-02",
+      "transcripts": "Can I change my delivery address? Yes, please provide the new address. 123 Market St, San Francisco. Your address has been updated. Thanks! Do you know any good sushi places nearby? There's a great spot called Sushi Go on Market St. Are you a sushi fan? Absolutely, I love salmon rolls. What's your favorite? I like tuna sashimi. Do you have any favorite sports teams? I'm a big fan of the San Francisco Giants. Baseball is my thing. Nice! Have you been to a game recently? Not this season, but I hope to go soon."
+    },
+    {
+      "user_id": 3,
+      "date": "2024-06-03",
+      "transcripts": "My order status says delivered but I haven't received it. I'm sorry to hear that. I'll start an investigation and update you soon. Thanks. By the way, do you watch soccer? Yes, I support Manchester United. Do you have a favorite team? I'm a Real Madrid fan. I never miss a Champions League match. That's dedication! Do you play soccer too? I play on weekends with my friends. After games, we usually grab burgers. Sounds fun! What's your favorite burger place? Burger Palace downtown. Their fries are the best."
+    },
+    {
+      "user_id": 4,
+      "date": "2024-06-04",
+      "transcripts": "I'd like to cancel my order. Can you tell me why you want to cancel? I found a better price elsewhere. We can offer you a $20 discount if you keep your order. That's tempting. By the way, do you like Italian food? Yes, I love pasta, especially carbonara. How about you? I'm a pizza lover. My favorite is margherita with extra cheese. Classic choice! Do you follow any sports? I'm a huge football fan. Go Texans! Nice! Do you ever go to games? Sometimes, when I can get tickets."
+    }
+  ]
+}

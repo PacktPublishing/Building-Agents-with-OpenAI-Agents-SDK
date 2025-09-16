@@ -1,0 +1,6 @@
+{
+  "to_email": "michael.nguyen@example.com",
+  "from_email": "hello@paperco.com",
+  "subject": "Cheering for the Giants & a Special Offer Just for You!",
+  "html_email": "<p>Hi Michael,</p><p>Hope you’re enjoying the Giants game today—they’re up 2-1 against the Padres! Sorry to hear about Roupp’s injury, but here’s hoping the team keeps the momentum.</p><p>By the way, we’ve just rolled out a <strong>premium subscription</strong> at PaperCo—sign up and enjoy <strong>10% off all your orders</strong>, every time.</p><p>If you ever want to talk Giants (or salmon rolls), just let me know!</p><p>Go Giants!<br/>The PaperCo Team</p>"
+}

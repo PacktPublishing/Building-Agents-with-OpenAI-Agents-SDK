@@ -1,0 +1,6 @@
+{
+  "to_email": "emily.clark@example.com",
+  "from_email": "hello@paperco.com",
+  "subject": "Big Knicks News & Exclusive PaperCo Offer!",
+  "html_email": "<p>Hi Emily,</p><p>Exciting times for Knicks fans—Mikal Bridges just signed a new contract extension, and Coach Mike Brown is now at the helm! With games heating up and sunny weather ahead, it's the perfect season for basketball, sneakers, and maybe a slice of your favorite pepperoni pizza after a game.</p><p>As you gear up for fall, we wanted to share our newest PaperCo premium subscription: enjoy 10% off every order, making your retail supply runs even easier. Let us know if you’d like to learn more!</p><p>Stay energized and Go Knicks!<br/>The PaperCo Team</p>"
+}
