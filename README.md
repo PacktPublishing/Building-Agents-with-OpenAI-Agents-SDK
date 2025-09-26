@@ -59,17 +59,17 @@ Each chapter builds upon a continuous project that evolves in complexity, giving
   <summary><h2>Chapters</summary>
 
 
-| Chapters | Colab | Kaggle | Gradient | Studio Lab |
-| :-------- | :-------- | :------- | :-------- | :-------- |
-| **Chapter 1: Introduction to OpenAI  Agents SDK** | | | | |
-| **Chapter 2: OpenAI Agents SDK  Environment Setup** | | | | |
-| **Chapter 3: Building Your First Agent** | | | | |
-| **Chapter 4: Management, Administration,  and Security** | | | | |
-| **Chapter 5: Agentic Memory, RAG, and  Knowledge Integration** | | | | |
-| **Chapter 6: Multi-Agent Orchestrations and Handoffs** | | | | |
-| **Chapter 7: Third-Party Models** | | | | |
-| **Chapter 8: Future of Agentic AI** | | | | |
-| **Chapter 9: Build End-to-End AI Agents** | | | | |
+| Chapters | 
+| :-------- |
+| **Chapter 1: Introduction to OpenAI  Agents SDK** |
+| **Chapter 2: OpenAI Agents SDK  Environment Setup** |
+| **Chapter 3: Building Your First Agent** |
+| **Chapter 4: Management, Administration,  and Security** |
+| **Chapter 5: Agentic Memory, RAG, and  Knowledge Integration** |
+| **Chapter 6: Multi-Agent Orchestrations and Handoffs** |
+| **Chapter 7: Third-Party Models** |
+| **Chapter 8: Future of Agentic AI** |
+| **Chapter 9: Build End-to-End AI Agents** |
 
 
 
