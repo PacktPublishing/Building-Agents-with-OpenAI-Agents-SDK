@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 <h1 align="center">
 Building Agents with OpenAI  Agents SDK, First Edition</h1>
 <p align="center">This is the code repository for <a href ="building-agents-with-openai--agents-sdk-first-edition"> Building Agents with OpenAI  Agents SDK, First Edition</a>, published by Packt.
